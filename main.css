@@ -1,0 +1,17 @@
+body {
+  background-color: powderblue;
+}
+.test1 {
+  color: blue;
+  margin-left: 22em;
+}
+.testclass {
+  color: yellowgreen;
+  margin-left: 685px;
+  margin-top: 50px;
+}
+.testclass:hover {
+  color: blue;
+  text-shadow: 8px 8px 6px red;
+  font-size: 30px;
+}
